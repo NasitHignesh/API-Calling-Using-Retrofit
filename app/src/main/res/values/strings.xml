@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">fakeApiStore</string>
+
+    <string-array name="spinner_list">
+        <item>electronics</item>
+        <item>jewelery</item>
+        <item>mens clothing</item>
+        <item>women clothing</item>
+    </string-array>
+
+    <string-array name="limit_list">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+</resources>
